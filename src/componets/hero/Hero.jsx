@@ -4,7 +4,7 @@ export const Hero = () => {
     return (
         <>
           
-    <div className="bg-cover bg-no-repeat bg-center py-36" style={{backgroundImage: `url('../../assets/images/banner-bg.jpg')`}}>
+    <div className="bg-cover bg-pink-500 bg-no-repeat bg-center py-20 px-10" style={{backgroundImage: `url('../../assets/images/banner-bg.jpg')`}}>
        
         <div className="container">
             <h1 className="text-6xl text-gray-800 font-medium mb-4 capitalize">
